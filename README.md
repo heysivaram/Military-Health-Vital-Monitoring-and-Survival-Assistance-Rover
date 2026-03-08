@@ -21,3 +21,19 @@ The rover acts as the first responder in hazardous environments by performing en
 • Semi autonomous surveillance rover  
 • GPS location tracking  
 • Battlefield monitoring support
+
+---
+
+## Advanced Defense Features
+
+### Wireless Soldier Health Communication
+
+The wearable band transmits health data to the rover using ESP-NOW wireless communication.
+
+### Landmine Detection
+
+The rover includes a metal detection module capable of identifying possible landmines or buried metallic threats.
+
+### Drone Surveillance Integration
+
+A drone can be integrated with the system to provide aerial surveillance and assist the rover in battlefield monitoring.
